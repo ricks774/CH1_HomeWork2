@@ -59,7 +59,7 @@ export default function App() {
               color:'#f4f4f4',
               fontSize:20,
               textAlign:'center'
-              }}>今天是萬聖節快{'\n'}來添購一些道具享受節慶吧~~</Text>
+              }}>今天是萬聖節{'\n'}快來添購一些道具享受節慶吧~~</Text>
           </View>
         </View>
       </View>
